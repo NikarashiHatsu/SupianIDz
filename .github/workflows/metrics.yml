@@ -26,8 +26,9 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Makassar
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          config_output: svg
+          filename: metrics.svg
+
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
@@ -67,6 +68,10 @@ jobs:
           # Notable contributions
           plugin_notable: yes
           plugin_notable_filter: stars:>10
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_notable_from: all
+          plugin_notable_types: commit
 
   achievements:
     runs-on: ubuntu-latest
