@@ -18,5 +18,7 @@
 You can see the results of my public work on this profile page or on [@OctopyID](https://github.com/OctopyID).
 
 ![Metrics](https://raw.githubusercontent.com/SupianIDz/SupianIDz/metrics/metrics.svg)
+---
 ![Notable Contributions](https://raw.githubusercontent.com/SupianIDz/SupianIDz/metrics/notable.svg)
+---
 ![Achievements](https://raw.githubusercontent.com/SupianIDz/SupianIDz/metrics/achievements.svg)
