@@ -67,11 +67,10 @@ jobs:
 
           # Notable contributions
           plugin_notable: yes
+          plugin_notable_from: all
           plugin_notable_filter: stars:>10
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_notable_from: all
-          plugin_notable_types: commit
 
   achievements:
     runs-on: ubuntu-latest
