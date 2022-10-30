@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="797" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="779" class="large">
     <defs>
         <style/>
     </defs>
@@ -247,46 +247,46 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M115.748,5.401A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.014000377767983792"/>
+                                        <path d="M115.694,5.396A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.013919563906197413"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M122.251,6.366A75,75,0,0,0,115.487,5.375L108,80Z" class="ct-slice-pie" ct:value="0.01186265541263745"/>
+                                        <path d="M122.153,6.347A75,75,0,0,0,115.433,5.369L108,80Z" class="ct-slice-pie" ct:value="0.011794181046386517"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M123.535,6.627A75,75,0,0,0,121.994,6.317L108,80Z" class="ct-slice-pie" ct:value="0.0023636424240853016"/>
+                                        <path d="M123.428,6.604A75,75,0,0,0,121.895,6.298L108,80Z" class="ct-slice-pie" ct:value="0.002349998858508859"/>
                                     </g>
                                     <g class="ct-series ct-series-d">
-                                        <path d="M128.02,7.721A75,75,0,0,0,123.279,6.573L108,80Z" class="ct-slice-pie" ct:value="0.008327932238793809"/>
+                                        <path d="M129.357,8.105A75,75,0,0,0,123.172,6.551L108,80Z" class="ct-slice-pie" ct:value="0.0110488977982477"/>
                                     </g>
                                     <g class="ct-series ct-series-e">
-                                        <path d="M128.045,7.728A75,75,0,0,0,127.767,7.652L108,80Z" class="ct-slice-pie" ct:value="0.000048146899895187904"/>
+                                        <path d="M129.383,8.113A75,75,0,0,0,129.106,8.031L108,80Z" class="ct-slice-pie" ct:value="0.00004786898332907422"/>
                                     </g>
                                     <g class="ct-series ct-series-f">
-                                        <path d="M173.821,44.047A75,75,0,0,0,127.793,7.659L108,80Z" class="ct-slice-pie" ct:value="0.1082690448766143"/>
+                                        <path d="M174.282,44.904A75,75,0,0,0,129.132,8.039L108,80Z" class="ct-slice-pie" ct:value="0.10764408748093526"/>
                                     </g>
                                     <g class="ct-series ct-series-g">
-                                        <path d="M180.177,59.617A75,75,0,0,0,173.695,43.818L108,80Z" class="ct-slice-pie" ct:value="0.030399211872284792"/>
+                                        <path d="M180.405,60.442A75,75,0,0,0,174.159,44.673L108,80Z" class="ct-slice-pie" ct:value="0.030223739628080094"/>
                                     </g>
                                     <g class="ct-series ct-series-h">
-                                        <path d="M182.833,74.994A75,75,0,0,0,180.106,59.365L108,80Z" class="ct-slice-pie" ct:value="0.02819926890784313"/>
+                                        <path d="M182.879,75.739A75,75,0,0,0,180.336,60.189L108,80Z" class="ct-slice-pie" ct:value="0.028036495312890087"/>
                                     </g>
                                     <g class="ct-series ct-series-i">
-                                        <path d="M41.574,114.822A75,75,0,0,0,182.815,74.733L108,80Z" class="ct-slice-pie" ct:value="0.36872821815730705"/>
+                                        <path d="M41.892,115.422A75,75,0,0,0,182.864,75.478L108,80Z" class="ct-slice-pie" ct:value="0.366599821927382"/>
                                     </g>
                                     <g class="ct-series ct-series-j">
-                                        <path d="M108,5A75,75,0,0,0,41.696,115.053L108,80Z" class="ct-slice-pie" ct:value="0.27782613043365545"/>
+                                        <path d="M108,5A75,75,0,0,0,42.016,115.652L108,80Z" class="ct-slice-pie" ct:value="0.27938989876078246"/>
                                     </g>
                                     <g>
-                                        <text dx="109.93952584019803" dy="42.55019039413946" text-anchor="middle" class="ct-label">Hack</text>
-                                        <text dx="113.50492993354686" dy="42.90625731438334" text-anchor="middle" class="ct-label">PHP</text>
-                                        <text dx="115.44676656067433" dy="43.246827786015224" text-anchor="middle" class="ct-label">JavaScript</text>
-                                        <text dx="116.89287071613884" dy="43.56969873270275" text-anchor="middle" class="ct-label">Blade</text>
-                                        <text dx="118.01620328290788" dy="43.862406391743995" text-anchor="middle" class="ct-label">Shell</text>
-                                        <text dx="131.30780706327172" dy="50.62320422678299" text-anchor="middle" class="ct-label">TypeScript</text>
-                                        <text dx="142.7184116186928" dy="65.8267189869453" text-anchor="middle" class="ct-label">HTML</text>
-                                        <text dx="144.95298716567805" dy="73.61824949302824" text-anchor="middle" class="ct-label">CSS</text>
-                                        <text dx="118.17617491887015" dy="116.09287275932131" text-anchor="middle" class="ct-label">SCSS</text>
-                                        <text dx="75.91297399461584" dy="60.591940794355544" text-anchor="middle" class="ct-label">Vue</text>
+                                        <text dx="109.92600872080405" dy="42.549492788382864" text-anchor="middle" class="ct-label">Hack</text>
+                                        <text dx="113.46680589637198" dy="42.90061950259287" text-anchor="middle" class="ct-label">PHP</text>
+                                        <text dx="115.39550858955003" dy="43.236479321181825" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="117.20407774333592" dy="43.6470777942869" text-anchor="middle" class="ct-label">Blade</text>
+                                        <text dx="118.685055514482" dy="44.054491398055895" text-anchor="middle" class="ct-label">Shell</text>
+                                        <text dx="131.76801118617306" dy="50.99428255922717" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="142.8885984688574" dy="66.25097469349768" text-anchor="middle" class="ct-label">HTML</text>
+                                        <text dx="145.01903061017376" dy="74.01323353695689" text-anchor="middle" class="ct-label">CSS</text>
+                                        <text dx="118.16006903779139" dy="116.0974098398668" text-anchor="middle" class="ct-label">SCSS</text>
+                                        <text dx="75.82538714945511" dy="60.73749009299278" text-anchor="middle" class="ct-label">Vue</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -315,12 +315,6 @@
                         </h3>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
-                            </svg>
-                            Current streak 2 days
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
                             Best streak 15 days
@@ -341,7 +335,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~3.79
+                            Average per day at ~3.77
                         </div>
                     </section>
                 </div>
@@ -1316,6 +1310,11 @@
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.642857142857143 0,1.6428571428571428 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6428571428571428 1.7,2.642857142857143 z"/>
+                            </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
                     </g>
