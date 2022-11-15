@@ -1,9 +1,9 @@
 <div align="left">
   <a href="https://api.daily.dev/get?r=SupianIDz" target="_blank">
     <img
-      width="256"
+      width="355"
       align="right"
-      src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/devcard/devcard.svg"
+      src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"
     />
   </a>
 </div>
